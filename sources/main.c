@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fle-tolg <fle-tolg@student.42.fr>          +#+  +:+       +#+        */
+/*   By: fle-tolg  <fle-tolg@student.42angouleme    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/25 13:02:58 by fle-tolg          #+#    #+#             */
-/*   Updated: 2022/11/17 09:56:26 by fle-tolg         ###   ########.fr       */
+/*   Updated: 2023/05/11 14:52:15 by fle-tolg         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "./includes/push_swap.h"
+#include "../includes/push_swap.h"
 
 int	check_str(char *str)
 {

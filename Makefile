@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: fle-tolg <fle-tolg@student.42.fr>          +#+  +:+       +#+         #
+#    By: fle-tolg  <fle-tolg@student.42angouleme    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/09/27 11:57:23 by fle-tolg          #+#    #+#              #
-#    Updated: 2022/11/15 13:36:45 by fle-tolg         ###   ########.fr        #
+#    Updated: 2023/05/11 14:52:17 by fle-tolg         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -29,7 +29,7 @@ RM = rm -f
 
 OBJ = $(SRC:.c=.o)
 
-SRC = main.c\
+SRC = sources/main.c\
 	sources/push_swap.c\
 	sources/to_r_rr.c\
 	sources/algo3.c\
